@@ -23,6 +23,15 @@ This repository contains files and codes used for a political campaign. The goal
    
  - Finally, after verifying if a phone number is a Whatsapp account, those numbers are put together in a final list, and then the API can be applied to send out messages
 
+## Caution
+It should be clear that Bulk messages can be reported and labeled as spam by Whatsapp users. 
+- [Whatsapp rules](https://faq.whatsapp.com/5957850900902049)
+
+Some recommedations for this kind of campaigns are:
+- Sending the messages should not take more than 1 minute to be sent to all contact, therefore assess the suitable number of contact per day
+- Use a whatsapp account exclusively for this service, avoiding the incovenience of a personal account being blocked
+- Avoid too agressive marketing approaches. It is rather recommended first message approaches
+
 ## The API
 
 Evolution API is a non-official open-source Brazilian API for Whatsapp messager. 
