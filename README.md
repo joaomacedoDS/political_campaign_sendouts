@@ -31,4 +31,4 @@ Evolution API is a non-official open-source Brazilian API for Whatsapp messager.
 
 it requires a VPS to be installed and a whatssap account with a valid phone number to be able to send messages.
 
-- ![Evolution API Documentation](https://doc.evolution-api.com/v2/en/get-started/introduction)
+- [Evolution API Documentation](https://doc.evolution-api.com/v2/en/get-started/introduction)
